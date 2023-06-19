@@ -22,3 +22,4 @@ class GeoModel13(BaseModel):
         json_encoders = {
             datetime: lambda v: v.isoformat()
         }
+# Modified 2023-06-19
